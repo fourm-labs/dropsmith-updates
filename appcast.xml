@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dropsmith</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 29 Oct 2026 14:54:07 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://fourm-labs.github.io/dropsmith-updates/Dropsmith-0.1.0.zip" length="22051219" type="application/octet-stream" sparkle:edSignature="ZkT4t1n51CLXomv1C9qwTLZJcj7xouADaBK+TevFDKcY5GVdJcnXCl74fDU2e/XmwI4cELYCuSp0qEa1gY8HAw=="/>
+        </item>
+    </channel>
+</rss>
