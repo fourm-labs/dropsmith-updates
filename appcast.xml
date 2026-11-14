@@ -3,6 +3,24 @@
     <channel>
         <title>Dropsmith</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 14 Nov 2026 10:08:41 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[
+- A new welcome tour: try the Convert and Tools wheels with a sample photo, step by step. Each step ticks off as you do it, and a tip appears if something goes wrong. See it again in Settings > Advanced > Show Onboarding Again.
+- Draw on images: arrows, boxes, lines, text, numbered steps and a highlighter, or hide private details with pixelate, blur or a black box. Tap ⌘ while dragging and drop on Draw, or choose ⋯ > Draw… on a result card.
+- Crop a video by choosing the area to keep, just like an image.
+
+]]></description>
+            <enclosure url="https://fourm-labs.github.io/dropsmith-updates/Dropsmith-0.2.0.zip" length="22183990" type="application/octet-stream" sparkle:edSignature="9pr5x5imcQ7V0HCAHRMlYEjoKuU9y+djKH1sm/qGnt/NO3214TMpdH7tvzecTb3hYvIPevZ08JDVTLcwcbHfDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://fourm-labs.github.io/dropsmith-updates/Dropsmith2-1.delta" sparkle:deltaFrom="1" length="899642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ws5j5kLiqJHrHLsjkixo4WDkXUQ379tPTk6MfinvjNXxB1SuD7A1wWYAIQ/mNKKSj6LgTkGjNJEwQqg4VFtnBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Thu, 29 Oct 2026 14:54:07 +0700</pubDate>
             <sparkle:version>1</sparkle:version>
