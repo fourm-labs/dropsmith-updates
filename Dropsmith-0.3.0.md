@@ -1,0 +1,5 @@
+- Window Layouts: save how app windows sit on each display and put them back with one click or a shortcut. Pick from the windows that are open now, use a ready-made frame or draw your own boxes, and drag to resize. Apps that aren't open are skipped, and more than one display works. Find it in the menu bar under Window Layouts.
+- Quit Apps…: tick the apps you want to close and quit them in one go, just like pressing ⌘Q in each.
+- A card after each screenshot or screen recording, with quick actions: compress, convert, crop, draw and more. Turn it on in Settings > General.
+- New image tools: Remove Background, Copy Text and QR Code. Turn them on in Settings > Wheels.
+- Settings now keep features (Clipboard, Shelf, Window Layouts, Quit Apps) in their own group, each with its own on/off switch.
